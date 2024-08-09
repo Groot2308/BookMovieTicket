@@ -1,6 +1,7 @@
 # MovieBooker
 Project using asp .net with topic booking ticket for website movie
-Role: User
+
+Role User
 Home Page Screen 
 ![home page](https://res.cloudinary.com/dfxxqc3h8/image/upload/v1723218843/moviebookticket/d89ut1nrttxcsmxme20r.png)
 Sceen List Movie 
